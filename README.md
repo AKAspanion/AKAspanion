@@ -18,7 +18,7 @@ I am a Full Stack Developer 👨‍💻, currently, I work full time 👨‍💼
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
 </p>
 
-#### Other tech stack i work with ⚡
+#### Other tech stack I work with ⚡
 
 <p>
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white" />
