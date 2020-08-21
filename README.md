@@ -2,7 +2,7 @@
 
 ### I am [Ankit](https://ankitpandit.xyz/) 🤓
 
-I am a Full Stack Developer 👨‍💻, currently, I work full time 👨‍💼 [@Global Ids](https://www.globalids.com/) and I'm also a community team member 👨‍🦱 [@MSK Documents](https://github.com/MSK-Documents).
+I am a Full Stack Developer 👨‍💻, currently, I work full time 💼 [@Global Ids](https://www.globalids.com/) and I'm also a community team member 👨‍🦱 [@MSK Documents](https://github.com/MSK-Documents).
 
 #### I am best in ❤
 
