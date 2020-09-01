@@ -21,9 +21,11 @@ I am a Full Stack Developer 👨‍💻, currently, I work full time 💼 [@Glob
 #### Other tech stack I work with ⚡
 
 <p>
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 <img alt="gitlab" src="https://img.shields.io/badge/-Gitlab-505050?style=flat&logo=gitlab&logoColor=white" />
+<img alt="Flutter" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white" />
+<img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
 <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" />
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
