@@ -52,4 +52,5 @@ I am a Full Stack Developer 👨‍💻, currently, I work full time 💼 [@Geek
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" />
 <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white" />
+<img alt="Strapi" src="https://img.shields.io/badge/-Strapi-2E7EEA?style=flat&logo=Strapi&logoColor=white" />
 </p>
