@@ -16,6 +16,7 @@ I am a Full Stack Developer 👨‍💻, currently, I work full time 💼 [@Geek
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=Html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
 #### Other tech stack I work with ⚡
@@ -40,7 +41,6 @@ I am a Full Stack Developer 👨‍💻, currently, I work full time 💼 [@Geek
 <img alt="Material Design Icons" src="https://img.shields.io/badge/-Material Design Icons-2196F3?style=flat&logo=material-design-icons&logoColor=white" />
 <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
 <img alt="socket.io" src="https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white" />
 <img alt="Next" src="https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js&logoColor=white" />
 <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00C58E?style=flat&logo=Nuxt.js&logoColor=white" />
@@ -53,4 +53,5 @@ I am a Full Stack Developer 👨‍💻, currently, I work full time 💼 [@Geek
 <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" />
 <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white" />
 <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-2E7EEA?style=flat&logo=Strapi&logoColor=white" />
+<img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
 </p>
