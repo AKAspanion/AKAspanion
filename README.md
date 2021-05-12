@@ -55,3 +55,5 @@ I am a Full Stack Developer 👨‍💻, currently, I work full time 💼 [@Geek
 <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-2E7EEA?style=flat&logo=Strapi&logoColor=white" />
 <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
 </p>
+
+#### See all my projects [here](https://github.com/AKAspanion/my-projects)
