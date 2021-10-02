@@ -25,6 +25,7 @@ I am a Full Stack Developer 👨‍💻, currently, I work full time 💼 [@Geek
 <p>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 <img alt="gitlab" src="https://img.shields.io/badge/-Gitlab-505050?style=flat&logo=gitlab&logoColor=white" />
+<img alt="azuredevops" src="https://img.shields.io/badge/-AzureDevops-0078D7?style=flat&logo=azuredevops&logoColor=white" />
 <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
 <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
@@ -33,6 +34,7 @@ I am a Full Stack Developer 👨‍💻, currently, I work full time 💼 [@Geek
 <img alt="vuetify" src="https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white" />
 <img alt="Material UI" src="https://img.shields.io/badge/-Material UI-0081CB?style=flat&logo=material-ui&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+<img alt="Styled" src="https://img.shields.io/badge/-Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
 <img alt="React Router" src="https://img.shields.io/badge/-React Router-CA4245?style=flat&logo=react-router&logoColor=white" />
 <img alt="D3.js" src="https://img.shields.io/badge/-D3-F9A03C?style=flat&logo=d3.js&logoColor=white" />
 <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white" />
