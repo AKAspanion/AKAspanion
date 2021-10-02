@@ -8,6 +8,7 @@ I am a Full Stack Developer 👨‍💻, currently, I work full time 💼 [@Geek
 
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typeScript&logoColor=white" />
 <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
 <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
@@ -22,7 +23,6 @@ I am a Full Stack Developer 👨‍💻, currently, I work full time 💼 [@Geek
 #### Other tech stack I work with ⚡
 
 <p>
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typeScript&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 <img alt="gitlab" src="https://img.shields.io/badge/-Gitlab-505050?style=flat&logo=gitlab&logoColor=white" />
 <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
