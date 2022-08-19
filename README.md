@@ -1,6 +1,6 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="48" style="margin-bottom: -4px"/>
 
-### I am [Ankit](https://ankitpandit.xyz/) 🤓
+### I am [Ankit](https://spanion-portfolio.web.app/) 🤓
 
 I am a Full Stack Developer 👨‍💻, currently, I work full time 💼 [@GeekyAnts](https://www.geekyants.com/). <br/> Previously, I have been an associate of [Global Ids](https://www.globalids.com/) and [TCS](https://www.tcs.com/).
 
@@ -12,6 +12,7 @@ I am a Full Stack Developer 👨‍💻, currently, I work full time 💼 [@Geek
 <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
 <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+<img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat&logo=redux&logoColor=white" />
 <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white" />
 <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=Html5&logoColor=white" />
