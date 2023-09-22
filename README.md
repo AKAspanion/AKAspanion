@@ -1,6 +1,6 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="48" style="margin-bottom: -4px"/>
 
-### I am [Ankit](https://spanion-portfolio.web.app/) 🤓
+### I am [Ankit](https://akaspanion.github.io/) 🤓
 
 I am a Full Stack Developer 👨‍💻, currently, I work full time 💼 [@GeekyAnts](https://www.geekyants.com/). <br/> Previously, I have been an associate of [Global Ids](https://www.globalids.com/) and [TCS](https://www.tcs.com/).
 
